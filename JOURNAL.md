@@ -56,3 +56,7 @@ The whole case looks like this:
 ![image](https://github.com/user-attachments/assets/19bc7aa0-516d-4ce5-9ca0-17643d644717)
 I think that's it for the case. Today (7/3) I'll try to work on the ZMK firmware.
 
+** Day 3 - 7/3/2025 - 12:22 PM (3 hours)
+I just spent way too long trying to figure that out. Hackatime says I spent around 2 hours trying to configure ZMK, then I probably spent another hour waiting for the workflow to run and troubleshooting the errors. But it did end up running, and [here](https://github.com/luteron6/zmk-config-meimei/actions/runs/16058502554e) are the results.
+
+I think it's almost ready to submit!
