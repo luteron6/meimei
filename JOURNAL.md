@@ -19,7 +19,7 @@ Ok I've been thinking about this for a while, and here's what I want (some goals
 * USB-C
 * Clicky keys :)
 
-** Day 1 - 6/20/2025 - 7:55 AM (5 hours)
+## Day 1 - 6/20/2025 - 7:55 AM (5 hours)
 From my research, Cherry Blues are the typical 'clicky' switches. So I'll go with those. For the keycaps, I found [these](https://www.amazon.com/Japanese-Keycaps-Sublimation-Mechanical-Keyboard/dp/B08Y6S1N3X/).
 
 I also found that the [nice!nano](https://nicekeyboards.com/nice-nano/) microcontroller is the typical bluetooth microcontroller used on keyboards. Apparently it's best on ZMK, so I'll have to learn that to make the firmware (I only know QMK). The docs also suggest socketing the nice!nano, so I'll try that. I found these sockets and pins: [here](https://ringerkeys.com/products/peel-a-way-sockets?variant=40212560576594).
@@ -43,7 +43,7 @@ Phew! It's done. My PCB, that is: <br> ![image](https://github.com/user-attachme
 I'm going to start on my case after I add this repo to the submissions.yml file. But I'm going to close this journal log now, it's been a while.
 
 
-** Day 2 - 7/2/2025 last night (4 hours)
+## Day 2 - 7/2/2025 last night (4 hours)
 OK last night I stayed up way too late making my case. It was like past 11, so I just went to sleep without journaling. Anyway, I started and almost finished my case. Here's my PCB:
 
 ![image](https://github.com/user-attachments/assets/958eedb6-cede-423a-aad6-0bf660635a89)
@@ -56,7 +56,7 @@ The whole case looks like this:
 ![image](https://github.com/user-attachments/assets/19bc7aa0-516d-4ce5-9ca0-17643d644717)
 I think that's it for the case. Today (7/3) I'll try to work on the ZMK firmware.
 
-** Day 3 - 7/3/2025 - 12:22 PM (3 hours)
+## Day 3 - 7/3/2025 - 12:22 PM (3 hours)
 I just spent way too long trying to figure that out. Hackatime says I spent around 2 hours trying to configure ZMK, then I probably spent another hour waiting for the workflow to run and troubleshooting the errors. But it did end up running, and [here](https://github.com/luteron6/zmk-config-meimei/actions/runs/16058502554e) are the results.
 
 I think it's almost ready to submit!
