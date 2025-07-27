@@ -60,3 +60,7 @@ I think that's it for the case. Today (7/3) I'll try to work on the ZMK firmware
 I just spent way too long trying to figure that out. Hackatime says I spent around 2 hours trying to configure ZMK, then I probably spent another hour waiting for the workflow to run and troubleshooting the errors. But it did end up running, and [here](https://github.com/luteron6/zmk-config-meimei/actions/runs/16058502554e) are the results.
 
 I think it's almost ready to submit!
+
+## Day 4 - 7/27/2025 - 7:58 AM (1 hour)
+Yesterday I purchased all the parts for the keyboard. I could only find some parts on certain sites, so I got those first. The rest was from Amazon. I was looking to source from Aliexpress, but stuff wasn't looking much cheaper there. So most of it's coming from Amazon.
+
